@@ -5,6 +5,8 @@ Postleitzahlkreise in Verbindung mit den jeweils zuständigen Verwaltungsgericht
 
 
 
-(c)under GNU General Public License:   Kartenkontor 2020
+© under GNU General Public License:   Kartenkontor
+
 Quelle der Shapefile-Rohdaten: © OpenStreetMap contributors
+
 Idee und Auftrag: https://fragdenstaat.de/
