@@ -5,7 +5,7 @@ Postleitzahlkreise in Verbindung mit den jeweils zuständigen Verwaltungsgericht
 
 
 
-© under GNU General Public License:   Kartenkontor
+© under GNU General Public License:   Kartenkontor_Leipzig
 
 Quelle der Shapefile-Rohdaten: © OpenStreetMap contributors
 
