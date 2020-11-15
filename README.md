@@ -1,2 +1,10 @@
 # zustaendigkeiten-Verwaltungsgerichte-Deutschland-nach-PLZ
-Postleitzahlen in Verbindung mit den jeweils zuständigen Verwaltungsgerichten in Deutschland als Punktvektoren im WGS84
+Postleitzahlkreise in Verbindung mit den jeweils zuständigen Verwaltungsgerichten in Deutschland als Punktvektoren im WGS84 und als Tabelle
+
+
+
+
+
+(c)under GNU General Public License:   Kartenkontor 2020
+Quelle der Shapefile-Rohdaten: © OpenStreetMap contributors
+Idee und Auftrag: https://fragdenstaat.de/
