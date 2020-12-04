@@ -1,5 +1,5 @@
-# Verwaltungsgerichtszustaendigkeit-Deutschland-nach-PLZ als Shapedatei und Liste
-Postleitzahlkreise in Verbindung mit den jeweils zuständigen Verwaltungsgerichten in Deutschland.Als Liste und als Punktvektoren im WGS84 und als Tabelle
+# Verwaltungsgerichtsbezirke-Deutschland
+In kombination mit PLZ als Liste und als Punktvektoren im WGS84 und als Tabelle
 
 
 
